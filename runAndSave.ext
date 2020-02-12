@@ -1,0 +1,10 @@
+settings.json
+-------------
+
+"saveAndRun": {
+    "commands": [{
+        "match": ".ts",
+        "cmd": "tsc ${file} && eslint ${fileBasenameNoExt}.js",
+        "silent": false
+    }]
+},
