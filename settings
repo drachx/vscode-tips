@@ -1,0 +1,7 @@
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#eee",
+        "editor.background": "#dadada",
+        "editor.foreground": "#0a0a0a",
+        "tab.activeBorder": "#0066ff"
+    }
